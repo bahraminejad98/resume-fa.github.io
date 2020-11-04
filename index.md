@@ -65,5 +65,5 @@
 <ul>
   <li>اینستاگرام: <a href="https://instagram.com/pouryab.75?igshid=1j54cry4yy852">https://instagram.com/pouryab.75?igshid=1j54cry4yy852</a></li>
  
-  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+  <li>رزومه ے انگلیسے: <a href="https://pouryab75.github.io/pouryabodaghi-resume/"> رزومه </a></li>
 </ul>
