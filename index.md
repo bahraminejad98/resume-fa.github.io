@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+<div dir="rtl">
+  <img src="" />
+  <h1> درباره ے من</h1>
+  <p> من پوریا بداغی هستم. من دانشجوی ڪارشناسے رشته‌ی مهندسی کامپیوتر در دانشگاه پیام نور شهریار هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام: پوریا</li>
+  <li>نام خانوادگے: بداغی</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: ۹ فروردین ۱۳۷۵</li>
+  <li>محل سڪونت: شهریار</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/pouryab75/resume-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  
+<h1>مهارت ها</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<ul>
+  <li>Javascript</li>
+  <li>ICDL</li>
+  <li>html</li>
+  <li>PHOTOSHOP</li>
+  <li>C+</li>
+  <li>css</li>
+  <li>Scss</li>
+  <li>web design</li> 
+  <li>jquery</li>
+  <li>Bootstrap</li>
 
-### Markdown
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1> مدرک ها</h1>
+<ul>
+  <li>کارشناسی نرم افزار</li>
+  <li>ICDl</li>
+  <li>CSS</li>
+  <li>HTML</li>
+  <li>Web</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> تجربه هاے ڪارے </h1>
+<ul>
+   <li>مسئول it دفتر تبلیغات و فناوری اندیشه و شهریار</li>
+   <li>مسئول سایت و تبلیغات دفتر املاک و کلینیک های پزشکی و دندانپزشکی مهستان سعادت آباد و آریاشهر</li>
+   <li>طراحی وساخت سایت های نمونه کار و گالری</li>
+   <li>دایرکتوری املاک</li>
+   <li>طراح و پشتیبان سایت</li>
+</ul>
 
-- Bulleted
-- List
+<h1> سوابق تحصیلے </h1>
+<ul>
+   <li>دیپلم رشته‌‌ی علوم تجربی</li>
+   <li> دانشجوے کارشناسے رشته‌ی مهندسے ڪامپیوتر در دانشگاه پیام نور شهریار و در حال تحصیل</li>
+</ul>
 
-1. Numbered
-2. List
+<br/>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pouryab75/resume-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1> سایر حساب هاے ڪاربرے </h1>
+<ul>
+  <li>اینستاگرام: <a href="https://instagram.com/pouryab.75?igshid=1j54cry4yy852">https://instagram.com/pouryab.75?igshid=1j54cry4yy852</a></li>
+ 
+  <li>رزومه ے انگلیسے: <a href=""> رزومه </a></li>
+</ul>
